@@ -3,9 +3,11 @@
 Репозиторий содержит исходный код заданий
 
 Текст уроков и решения смотрите на сайте:
-http://video.docode.ru/courses/python
+
+http://video.docode.ru/courses/python/osnovy-python
 
 Так же видео уроков доступно на YouTube:
+
 https://www.youtube.com/playlist?list=PLNtbY2SklBywnVoPEMh1xibFawd0jWq9q
 
 ## Помогайте проекту
