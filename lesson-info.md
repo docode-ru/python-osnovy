@@ -1,7 +1,7 @@
 # Помоги проекту:
 https://money.yandex.ru/to/41001933780050
 http://patreon.com/docode
-https://skies.land/user/53
+https://skies.land/docode
 
 
 # Текст урока:
