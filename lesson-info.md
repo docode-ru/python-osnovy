@@ -1,13 +1,13 @@
-# Помоги проекту:
+# Помогай проекту:
 https://money.yandex.ru/to/41001933780050
 http://patreon.com/docode
 https://skies.land/docode
 
 
-# Текст урока:
+# Домашнее задание и текст урока:
 http://video.docode.ru/
 
-# Репозиторий:
+# Исходный код:
 https://github.com/docode-ru/python-osnovy
 
 # Смотрите больше видео уроков на сайте:
